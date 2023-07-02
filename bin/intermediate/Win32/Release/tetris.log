@@ -1,24 +1,280 @@
-﻿  Blocks.cpp
-C:\Users\ibrahim\Documents\c++\tetris\src\Blocks.cpp(27,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\ibrahim\Documents\c++\tetris\src\Blocks.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Blocks.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Blocks.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Blocks.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Blocks.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
-  Game.cpp
-C:\Users\ibrahim\Documents\c++\tetris\src\Game.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
-  Iblock.cpp
-C:\Users\ibrahim\Documents\c++\tetris\src\Iblock.cpp(253,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Iblock.cpp(264,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Iblock.cpp(277,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Iblock.cpp(372,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Iblock.cpp(385,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\ibrahim\Documents\c++\tetris\src\Iblock.cpp(425,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ibrahim\Documents\c++\tetris\src\Iblock.cpp(432,20): warning C4018: '<': signed/unsigned mismatch
+﻿  Iblock.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(253,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(264,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(277,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(372,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(385,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(425,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(432,20): warning C4018: '<': signed/unsigned mismatch
   main.cpp
+  Sblock.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(222,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(233,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(247,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(345,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(358,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(398,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(405,20): warning C4018: '<': signed/unsigned mismatch
+  SqauerBlock.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(139,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(164,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(208,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(221,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(268,20): warning C4018: '<': signed/unsigned mismatch
+  Blocks.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Blocks.cpp(27,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibrahim\Documents\c++\tetris git\src\Blocks.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Blocks.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Blocks.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Blocks.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Blocks.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+  Jblock.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(220,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(231,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(245,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(334,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(347,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(386,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(393,20): warning C4018: '<': signed/unsigned mismatch
+  Map.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Map.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Map.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Map.cpp(63,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Map.cpp(70,21): warning C4018: '<': signed/unsigned mismatch
+  Collison.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(15,72): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(15,127): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(40,75): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(40,124): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(40,195): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(40,244): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(41,141): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(41,190): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(43,75): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(43,124): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(43,195): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(43,244): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(44,141): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(44,190): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(47,76): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(47,131): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(48,77): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(48,132): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(49,77): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(49,132): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(85,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(87,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(93,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(93,109): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(129,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(132,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(133,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(134,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(134,109): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(164,90): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(164,176): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(165,156): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(167,90): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(167,176): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(168,156): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(171,76): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris git\src\Collison.cpp(171,131): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Grid.cpp
+  Game.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Game.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+  Line.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Line.cpp(112,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Block.cpp
+  Lblock.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(215,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(226,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(240,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(333,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(346,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(386,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(393,20): warning C4018: '<': signed/unsigned mismatch
+  Zblock.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(225,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(236,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(250,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(345,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(358,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(398,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(405,20): warning C4018: '<': signed/unsigned mismatch
+  Tblock.cpp
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(214,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(225,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(239,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(335,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(348,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(393,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(400,20): warning C4018: '<': signed/unsigned mismatch
   Generating code
-  36 of 452 functions ( 8.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    21 functions had inline decision re-evaluated but remain unchanged
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(437): warning C4715: 'Tblock::check_block_limite_right': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Tblock.cpp(460): warning C4715: 'Tblock::check_block_limite_left': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(465): warning C4715: 'Zblock::check_block_limite_left': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Zblock.cpp(442): warning C4715: 'Zblock::check_block_limite_right': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(453): warning C4715: 'Lblock::check_block_limite_left': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Lblock.cpp(430): warning C4715: 'Lblock::check_block_limite_right': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(453): warning C4715: 'Jblock::check_block_limite_left': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Jblock.cpp(430): warning C4715: 'Jblock::check_block_limite_right': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(328): warning C4715: 'SqauerBlock::check_block_limite_left': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\SqauerBlock.cpp(305): warning C4715: 'SqauerBlock::check_block_limite_right': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(465): warning C4715: 'Sblock::check_block_limite_left': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Sblock.cpp(442): warning C4715: 'Sblock::check_block_limite_right': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(492): warning C4715: 'Iblock::check_block_limite_left': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Iblock.cpp(469): warning C4715: 'Iblock::check_block_limite_right': not all control paths return a value
+C:\Users\ibrahim\Documents\c++\tetris git\src\Block.cpp(80): warning C4172: returning address of local variable or temporary: k
+C:\Users\ibrahim\Documents\c++\tetris git\src\Block.cpp(85): warning C4172: returning address of local variable or temporary: k
+  448 of 452 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    30 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  tetris.vcxproj -> C:\Users\ibrahim\Documents\c++\tetris\bin\Win32\Release\tetris.exe
+  tetris.vcxproj -> C:\Users\ibrahim\Documents\c++\tetris git\bin\Win32\Release\tetris.exe
