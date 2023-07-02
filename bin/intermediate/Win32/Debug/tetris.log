@@ -1,0 +1,180 @@
+﻿  Collison.cpp
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(15,72): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(15,127): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(40,75): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(40,124): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(40,195): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(40,244): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(41,141): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(41,190): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(43,75): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(43,124): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(43,195): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(43,244): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(44,141): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(44,190): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(47,76): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(47,131): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(48,77): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(48,132): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(49,77): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(49,132): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(85,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(87,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(93,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(93,109): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(129,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(132,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(133,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(134,63): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(134,109): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(164,90): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(164,176): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(165,156): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(167,90): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(167,176): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(168,156): warning C4244: 'argument': conversion from 'T' to 'std::array<sf::RectangleShape,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(171,76): warning C4244: 'argument': conversion from 'T' to 'std::array<Line,20>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ibrahim\Documents\c++\tetris\src\Collison.cpp(171,131): warning C4244: 'argument': conversion from 'T' to 'std::array<bool,10>::size_type', possible loss of data
+          with
+          [
+              T=float
+          ]
+  tetris.vcxproj -> C:\Users\ibrahim\Documents\c++\tetris\bin\Win32\Debug\tetris.exe
